@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/binary-game/static/css/main.005fdf31.css",
+    "main.js": "/binary-game/static/js/main.afb10933.js",
+    "static/js/496.4e0f06ac.chunk.js": "/binary-game/static/js/496.4e0f06ac.chunk.js",
+    "static/media/banner.jpg": "/binary-game/static/media/banner.9fc02105f51dcc4fed5b.jpg",
+    "index.html": "/binary-game/index.html",
+    "main.005fdf31.css.map": "/binary-game/static/css/main.005fdf31.css.map",
+    "main.afb10933.js.map": "/binary-game/static/js/main.afb10933.js.map",
+    "496.4e0f06ac.chunk.js.map": "/binary-game/static/js/496.4e0f06ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005fdf31.css",
+    "static/js/main.afb10933.js"
+  ]
+}
